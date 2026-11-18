@@ -322,3 +322,4 @@ img { max-width: 100%; display: block; }
   .cols3 { grid-template-columns: 1fr; }
   body { font-size: 16px; }
 }
+.flush-top .prose p { text-align: justify; hyphens: auto; }
