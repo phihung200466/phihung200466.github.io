@@ -15,8 +15,8 @@
   /* ---- 2) ACCENT ------------------------------------------------------
      Ships as plain ink: no color, no shared brand. Pick one (light + dark
      values; the dark one needs to be lighter so it stays readable).        */
-  --accent-light: #201e1d;
-  --accent-dark: #f3f2f2;
+  --accent-light: #2e7d32;
+  --accent-dark: #66bb6a;
   /* --accent-light: #2545d3;  --accent-dark: #8aa2ff;   cobalt  */
   /* --accent-light: #1e6f50;  --accent-dark: #6fd1a8;   forest  */
   /* --accent-light: #b4552d;  --accent-dark: #f0a07c;   rust    */
