@@ -8,15 +8,15 @@
 
 :root {
   /* ---- neutrals ------------------------------------------------------- */
-  --paper: #f3f2f2;
-  --ink: #201e1d;
-  --surface: #eceae4;
+--paper: #0f2e22;
+--ink: #f4ecd8;
+--surface: #174033;
 
   /* ---- 2) ACCENT ------------------------------------------------------
      Ships as plain ink: no color, no shared brand. Pick one (light + dark
      values; the dark one needs to be lighter so it stays readable).        */
-  --accent-light: #2e7d32;
-  --accent-dark: #66bb6a;
+--accent-light: #f2a33a;
+--accent-dark: #ffb454;
   /* --accent-light: #2545d3;  --accent-dark: #8aa2ff;   cobalt  */
   /* --accent-light: #1e6f50;  --accent-dark: #6fd1a8;   forest  */
   /* --accent-light: #b4552d;  --accent-dark: #f0a07c;   rust    */
@@ -68,8 +68,8 @@ html[data-pack="serif"] {
 
 /* ---- dark mode (toggle in the footer) ---------------------------------- */
 html[data-theme="dark"] {
-  --paper: #141312;
-  --ink: #f3f2f2;
-  --surface: #1d1b19;
+--paper: #0a2118;
+--ink: #f4ecd8;
+--surface: #102d22;
   --accent: var(--accent-dark);
 }
